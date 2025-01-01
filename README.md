@@ -1,6 +1,6 @@
 *Introduction*
 
-The RC /15 F1 Light Set uses a small microcontroller to listen to the throttle signal from the receiver in an RC car and control LEDs. The integrated y-cable adapter goes between the receiver and the electronic speed controller (ESC).
+The RC 1/5th scale F1 Light Set uses a small microcontroller to listen to the throttle signal from the receiver in an RC car and control LEDs. The included y-cable adapter goes between the receiver and the electronic speed controller (ESC).
 There are three (3) JST SH sockets on the F1 Control Module that are all controlled together. You can use all three or any combination you choose.
 Instructions
 1.	For ease of wiring, unplug the 3 lights from the module (if they arrived attached).
@@ -10,6 +10,7 @@ Instructions
 5.	Plug your desired combination of lights into the module
 
 *Operation*
+
 •	Always turn the transmitter on before turning on the car/receiver
 •	The control module will detect neutral during start-up, so calibration is not required. Also, make sure that you leave the transmitter in neutral until the lights come on.
 Notes
