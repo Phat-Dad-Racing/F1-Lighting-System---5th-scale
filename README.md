@@ -1,3 +1,4 @@
+![Rear view of RC car with lights attached](https://github.com/Phat-Dad-Racing/F1-Lighting-System---5th-scale/blob/main/images/F1%20Light%20setup.jpg)
 *Introduction*
 
 The RC 1/5th scale F1 Light Set uses a small microcontroller to listen to the throttle signal from the receiver in an RC car and control LEDs. The included y-cable adapter goes between the receiver and the electronic speed controller (ESC).
