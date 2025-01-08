@@ -21,8 +21,9 @@ Instructions
 
 ### Changing the throttle direction
 * This version of the control board supports reversing the throttle direction. As shipped, the unit recognises the normal throttle direction of most Sanwa/Airtronic/FlySky radios. This is the same as "REV" on most Futaba radios. Most modern ESC's default to this orientation, so it is recommended. However, if your radio configuration cannot be adjusted, then follow the next step
-* Using a fine-tipped soldering iron, place a dab of solder on the pad on the underside of the board. Removing the solder will return lights to full brightness. See picture:
-
+* Using a fine-tipped soldering iron, place a dab of solder on the pad on the underside of the board. Removing the solder will return throttle direction to normal. See pictures:
+![Rear view of RC car with lights attached](https://github.com/Phat-Dad-Racing/F1-Lighting-System---5th-scale/blob/main/images/IMG_0098_small.jpg)
+![Rear view of RC car with lights attached](https://github.com/Phat-Dad-Racing/F1-Lighting-System---5th-scale/blob/main/images/IMG_0099_small.jpg)
 
 
 .
